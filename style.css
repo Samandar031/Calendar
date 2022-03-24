@@ -61,5 +61,6 @@ table.month thead tr:nth-child(2) th:last-child {
 }
 
 .calendar .month-container table.month tr td.day {
+  font-size: 12px;
   padding: 4px;
 }
